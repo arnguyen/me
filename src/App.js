@@ -50,7 +50,7 @@ export default class App extends React.Component {
         <div id="begin" className={classNames("main", theme === 'light' ? 'light' : 'dark')}>
           <div className={classNames("about", "section")}>
             <h2>About Me.</h2>
-            <img src="/mainpic.jpg" alt="me" />
+            <img src="mainpic.jpg" alt="me" />
             <p>
               Hello there! It's great to meet you. I'm Andrew, a senior studying computer science at the University of Michigan. 
               I am a passionate programmer who enjoys coding to life all sorts of things. Outside of programming, 
@@ -62,7 +62,7 @@ export default class App extends React.Component {
           <div className={classNames("experience", "section")}>
             <h2>Experience.</h2>
             <div class="umich">
-              <img src="/umich.jpg" alt="block M" />
+              <img src="umich.jpg" alt="block M" />
               <p>With courses such as Web Systems, UI Development, 
                  and Operating Systems, I have gained a broad range of experience 
                  through projects such as an Instagram clone, Pomodoro Web App, and an OS thread library.
@@ -72,7 +72,7 @@ export default class App extends React.Component {
             </div>
             <br />
             <div class="amazon">
-              <img src="/amazon.jpg" alt="amazon" />
+              <img src="amazon.jpg" alt="amazon" />
               <p>
                 As a software engineering intern on the Amazon Photos web team, I was able to learn a lot about software development, and, 
                 leveraging my skills in front-end development, I used a combination of ReactJS, Flux, and Sass to create a highly 
@@ -102,7 +102,7 @@ export default class App extends React.Component {
     
           <div id="resume" className={classNames("resume", "section")}>
             <h2>Resume.</h2>
-            <iframe src="/Nguyen-Andrew-Resume.pdf" title="Resume"/>
+            <iframe src="Nguyen-Andrew-Resume.pdf" title="Resume"/>
             <p>
               Also feel free to download my resume&nbsp;
               <a href="Nguyen-Andrew-Resume.pdf" download>
