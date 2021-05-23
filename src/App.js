@@ -115,8 +115,8 @@ export default class App extends React.Component {
           <div id="connect" className={classNames("connect", "section")}>
             <h2>Let's Connect!</h2>
             <a href="mailto: ngandrew@umich.edu"><code id="email">ngandrew@umich.edu</code></a> <br/>
-            <a href="https://www.linkedin.com/in/andrew-nguyen-084279179/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithubSquare} size="5x"/></a>
-            <a href="https://github.com/arnguyen" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size="5x"/></a>
+            <a href="https://github.com/arnguyen" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithubSquare} size="5x"/></a>
+            <a href="https://www.linkedin.com/in/andrew-nguyen-084279179/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size="5x"/></a>
           </div>    
         </div>
       </div>
