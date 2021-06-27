@@ -105,7 +105,7 @@ export default class App extends React.Component {
             <iframe src="Andrew-Nguyen-Resume.pdf" title="Resume"/>
             <p>
               Also feel free to download my resume&nbsp;
-              <a href="Nguyen-Andrew-Resume.pdf" download>
+              <a href="Andrew-Nguyen-Resume.pdf" download>
                 here
               </a>
               .    
